@@ -66,7 +66,7 @@ function App() {
    return (
     <div className="App">
      <div style={{ position: "relative", height: "100%", width: "100%", maxWidth: "700px", margin: "0 auto" }}>      <h1 style={{ textAlign: "center", marginBottom: "20px", color: "#A6DAD8", fontSize: "20px" }}>
-          <span style={{ color: "#009591", fontSize: "28px" }}>HBL</span> Demo Chatbot
+          <span style={{ color: "#009591", fontSize: "28px" }}>WingWarranty</span> Demo Chatbot
         </h1>
         <MainContainer>
           <ChatContainer>
