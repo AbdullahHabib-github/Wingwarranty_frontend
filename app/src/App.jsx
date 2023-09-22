@@ -29,7 +29,6 @@ function App() {
 
   async function processMessagetoAPI(query) {
     const apiRequestBody = {
-      Userid: '1258',
       query: query
     };
     
